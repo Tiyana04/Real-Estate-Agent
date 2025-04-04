@@ -1,0 +1,78 @@
+.favourites-list {
+  padding: 1rem;
+}
+  
+.favourites-list h2 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  color: #007bff;
+}
+  
+.favorite-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  background: #f8f9fa;
+  padding: 0.5rem 1rem;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+}
+  
+.favorite-item button {
+  background: #dc3545;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.favorite-item button:hover {
+  background: #b21f2d;
+}
+
+button {
+  background: #3489c6;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background: #177fca;
+}
+  
+/* ================= MEDIA QUERIES ================== */
+/* For large devices */
+@media (max-width: 1024px) {
+  .favourites-list {
+    padding: 0.5rem;
+  }
+
+  .favorite-item {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.5rem;
+  }
+
+  .favorite-item button {
+    width: auto; /* Ensures button width is only as wide as content */
+    margin-top: 0.5rem;
+  }
+}
+
+/* For small devices */
+@media (max-width: 768px) {
+  .favourites-list h2 {
+    font-size: 1.2rem;
+  }
+
+  .favorite-item button {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.6rem;
+  }
+}

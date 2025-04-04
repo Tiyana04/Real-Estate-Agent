@@ -1,0 +1,118 @@
+.property-details {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.property-details button {
+  background: #4CAF50;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.property-details button:hover {
+  background: #45a049;
+}
+
+.image-gallery {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.main-image {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.thumbnails {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.thumbnail {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 4px;
+}
+
+.thumbnail.active {
+  border-color: #007bff;
+}
+
+.thumbnail:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.react-tabs__tab--selected {
+  background-color: #3489c6;
+  color: white;
+  border: 1px solid #3489c6;
+  border-radius: 8px;
+} 
+
+.details-section {
+  margin-top: 1.5rem;
+}
+
+.floor-plan {
+  width: 80%;
+  max-width: 600px;
+}
+
+.details-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.details-section p {
+  margin: 0.5rem 0;
+}
+
+/* ================= MEDIA QUERIES ================== */
+/* For large devices */
+@media (max-width: 1024px) {
+  .property-details {
+    padding: 1rem;
+    max-width: 90%;
+  }
+
+  .image-gallery .main-image {
+    max-width: 100%;
+  }
+
+  .thumbnails {
+    gap: 0.25rem;
+  }
+
+  .details-section h2 {
+    font-size: 1.2rem;
+  }
+}
+
+/* For small devices */
+@media (max-width: 768px) {
+  .thumbnails .thumbnail {
+    width: 60px;
+    height: 60px;
+  }
+
+  .details-section p {
+    font-size: 0.9rem;
+  }
+
+  .property-details button {
+    font-size: 0.9rem;
+    padding: 0.4rem 0.8rem;
+  }
+}

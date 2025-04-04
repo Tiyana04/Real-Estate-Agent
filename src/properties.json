@@ -1,0 +1,199 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Attractive three-bedroom semi-detached home near Petts Wood station, with two receptions, a spacious kitchen, conservatory, utility room, and close to schools, amenities, and woodland.",
+      "longDescription": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior.",
+      "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+      "picture": "/images/prop1/prop1.jpg",
+      "pictures": [
+        "/images/prop1/img1.jpg",
+        "/images/prop1/img2.jpg",
+        "/images/prop1/img3.webp",
+        "/images/prop1/img4.jpg",
+        "/images/prop1/img5.webp",
+        "/images/prop1/img6.webp"
+      ],
+      "floorPlan": "/images/prop1/floorplan.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.674507724816!2d0.0795085757911081!3d51.390660019226004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab82cc8f3cb1%3A0xc746da03b0c6c716!2sPetts%20Wood%20Rd%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1736066800194!5m2!1sen!2slk",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      }
+    },
+
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Stylish two-bedroom garden flat with modern open-plan living, private courtyard, and premium finishes. Includes two bathrooms, integrated appliances, and a 10-year building guarantee.",
+      "longDescription": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This apartment being only five years old, is still under a 10 year building guarantee.",
+      "location": "Crofton Road Orpington BR6",
+      "picture": "/images/prop2/prop2.jpeg",
+      "pictures": [
+        "/images/prop2/img1.webp",
+        "/images/prop2/img2.webp",
+        "/images/prop2/img3.jpg",
+        "/images/prop2/img4.webp",
+        "/images/prop2/img5.webp",
+        "/images/prop2/img6.webp"
+      ],
+      "floorPlan": "/images/prop2/floorplan.webp",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.6134576883!2d0.06939207578983222!3d51.37340242048456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab6ac2bdc8d1%3A0xb0dde3c09939f924!2sCrofton%20Rd%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1736067222389!5m2!1sen!2slk" ,
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "September",
+        "day":14,
+        "year": 2022
+      }
+    },
+
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 895000,
+      "tenure": "Freehold",
+      "description": "Stunning four-bedroom detached home with a spacious kitchen, dining area, large garden, and triple garage, offering modern amenities in a desirable location.",
+      "longDescription": "This stunning four-bedroom detached house combines modern living with exceptional design. The property features a spacious, well-equipped kitchen seamlessly connected to a bright dining area, perfect for family meals or entertaining. The large garden offers ample space for outdoor activities and relaxation. Additional highlights include a generously sized living room, luxurious bedrooms, and contemporary bathrooms. The triple garage provides secure parking and extra storage. Situated in a desirable location, this home is ideal for those seeking comfort and convenience in a stylish setting.",
+      "location": "High Street, Bromley BR1",
+      "picture": "/images/prop3/prop3.jpg",
+      "pictures": [
+        "/images/prop3/img1.jpg",
+        "/images/prop3/img2.jpg",
+        "/images/prop3/img3.jpg",
+        "/images/prop3/img4.jpg",
+        "/images/prop3/img5.jpg",
+        "/images/prop3/img6.jpg"
+      ],
+      "floorPlan": "/images/prop3/floorplan.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9928.782082537597!2d-0.033862012078043735!3d51.527973602236855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761d444c42bcf5%3A0x85bffc5b6e2d05dd!2sBromley%20High%20St.%2C%20London%2C%20UK!5e0!3m2!1sen!2slk!4v1736073735635!5m2!1sen!2slk",
+      "url": "properties/prop3.html",
+      "added": {
+          "month": "July",
+          "day":30,
+          "year": 2022
+      }
+    },
+
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms": 1,
+      "price": 265500,
+      "tenure": "Leasehold",
+      "description": "Modern one-bedroom apartment in a prestigious development featuring underfloor heating, a private balcony with stunning city views, and secure parking.",
+      "longDescription": "Discover the perfect blend of luxury and convenience in this modern one-bedroom apartment, situated within a prestigious development. Designed for contemporary living, this stylish property boasts underfloor heating for year-round comfort, a spacious balcony offering breathtaking city views, and secure parking for peace of mind. Whether you're a professional seeking a vibrant urban lifestyle or a couple looking for a cozy yet sophisticated space, this apartment delivers the ideal combination of functionality and elegance.",
+      "location": "Station Road, Sevenoaks TN13",
+      "picture": "/images/prop4/prop4.jpg",
+      "pictures": [
+        "/images/prop4/img1.jpg",
+        "/images/prop4/img2.jpg",
+        "/images/prop4/img3.jpg",
+        "/images/prop4/img4.jpg",
+        "/images/prop4/img5.jpg",
+        "/images/prop4/img6.jpg"
+      ],
+      "floorPlan": "/images/prop4/floorplan.png",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2494.9705551894317!2d0.1666167757841578!3d51.29326592632507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47df526f432f133f%3A0x8e854e02b6321a83!2sStation%20Rd%2C%20Dunton%20Green%2C%20Sevenoaks%2C%20UK!5e0!3m2!1sen!2slk!4v1736073473410!5m2!1sen!2slk",
+      "url": "properties/prop4.html",
+      "added": {
+        "month": "March",
+        "day": 30,
+        "year": 2023
+      }
+    },
+    
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 1000000,
+      "tenure": "Freehold",
+      "description": "A luxurious modern property featuring sleek architectural design, an outdoor pool, and spacious interiors, complemented by a detailed floor plan for convenient layout visualization.",
+      "longDescription": "This property is a masterpiece of modern architecture, showcasing a contemporary design with clean lines and expansive glass panels that flood the interiors with natural light. The outdoor space features a stunning pool surrounded by a minimalist patio, ideal for relaxation or entertaining guests. Inside, the home offers an open-plan living area with a seamless flow between the indoor and outdoor spaces. The detailed floor plan highlights key features, including a grand salon, master retreat with ensuite, leisure room, library/study, and a well-equipped kitchen. Additional amenities include a family suite, guest bedrooms, and multiple garages, making it perfect for luxurious living.",
+      "location": "The Avenue, Beckenham BR3",
+      "picture": "/images/prop5/prop5.jpg",
+      "pictures": [
+        "/images/prop5/img1.jpg",
+        "/images/prop5/img2.jpg",
+        "/images/prop5/img3.jpg",
+        "/images/prop5/img4.png",
+        "/images/prop5/img5.jpg",
+        "/images/prop5/img6.jpg"
+      ],
+      "floorPlan": "/images/prop5/floorplan.gif",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2488.5681377930628!2d-0.01922112420750642!3d51.4109894177429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487601e9eb647d9f%3A0xb05884fd57720e4e!2sThe%20Avenue%2C%20Beckenham%2C%20UK!5e0!3m2!1sen!2slk!4v1736073545310!5m2!1sen!2slk",
+      "url": "properties/prop5.html",
+      "added": {
+        "month": "January",
+        "day": 15,
+        "year": 2024
+      }
+    },
+
+    {
+      "id": "prop6",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 756000,
+      "tenure": "Leasehold",
+      "description": "Luxurious three-bedroom penthouse with a wraparound terrace, two bathrooms, and allocated parking.",
+      "longDescription": "Experience unparalleled luxury in this stunning three-bedroom penthouse apartment, designed to elevate modern living. Featuring a spacious wraparound terrace with breathtaking views, this residence offers the perfect space for entertaining or relaxing in style. Inside, you'll find three generously sized bedrooms, two elegant bathrooms, and high-end finishes throughout. With the added convenience of allocated parking, this penthouse combines sophistication and practicality, making it the ultimate urban retreat.",
+      "location": "Station Square, Petts Wood BR5",
+      "picture": "/images/prop6/prop6.jpg",
+      "pictures": [
+        "/images/prop6/img1.webp",
+        "/images/prop6/img2.avif",
+        "/images/prop6/img3.webp",
+        "/images/prop6/img4.jpg",
+        "/images/prop6/img5.jpg",
+        "/images/prop6/img6.jpg"
+      ],
+      "floorPlan": "/images/prop6/floorplan.webp",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.726282736209!2d0.0726835757909965!3d51.38970851929534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab9e108659c1%3A0xceca968ee2a947af!2sStation%20Square%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1736073584340!5m2!1sen!2slk",
+      "url": "properties/prop6.html",
+      "added": {
+        "month": "November",
+        "day": 20,
+        "year": 2023
+      }
+    },
+
+    {
+      "id": "prop7",
+      "type": "House",
+      "bedrooms": 2,
+      "price": 450000,
+      "tenure": "Freehold",
+      "description": "Charming two-bedroom cottage with period features, a sunlit south-facing garden, and off-street parking, offering a perfect blend of comfort and character.",
+      "longDescription": "Fall in love with this delightful two-bedroom cottage brimming with charm and character. From its cozy interiors to the thoughtfully preserved period details, this home exudes warmth and personality. Enjoy the sunlit south-facing garden, perfect for outdoor relaxation or gardening enthusiasts, and the added benefit of off-street parking for your convenience. Whether you're looking for a serene retreat or a welcoming home, this cottage offers a unique blend of comfort and charm.",
+      "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+      "picture": "/images/prop7/prop7.jpg",
+      "pictures": [
+        "/images/prop7/img1.webp",
+        "/images/prop7/img2.webp",
+        "/images/prop7/img3.webp",
+        "/images/prop7/img4.webp",
+        "/images/prop7/img5.webp",
+        "/images/prop7/img6.webp"
+      ],
+      "floorPlan": "/images/prop7/floorplan.webp",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2489.6745077248165!2d0.07950857579111496!3d51.390660019226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8ab82cc8f3cb1%3A0xc746da03b0c6c716!2sPetts%20Wood%20Rd%2C%20Petts%20Wood%2C%20Orpington%2C%20UK!5e0!3m2!1sen!2slk!4v1736073638098!5m2!1sen!2slk",
+      "url": "properties/prop7.html",
+      "added": {
+        "month": "January",
+        "day": 31,
+        "year": 2024
+      }
+    }
+  ]
+}

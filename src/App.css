@@ -1,0 +1,76 @@
+.app {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.app-header {
+  background-image: linear-gradient(to right, #4CAF50, #3489c6);
+  color: rgb(255, 255, 255);
+  padding: 1rem 2rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+#header-desc {
+  font-size: 1rem;
+  font-style: italic;
+  color: rgb(220, 220, 220);
+}
+
+.main-content {
+  display: flex;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.search-section {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.favourites-section {
+  flex: 1;
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+  overflow-y: auto;
+}
+
+.favourites-section:hover {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ================= MEDIA QUERIES ================== */
+/* For large devices */
+@media (max-width: 1024px) {
+  .main-content {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .search-section, .favourites-section {
+    flex: 1;
+    max-width: 100%;
+  }
+}
+
+/* For small devices */
+@media (max-width: 768px) {
+  .app-header {
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+  }
+
+  .main-content {
+    padding: 1rem;
+  }
+
+  .favourites-section {
+    padding: 0.5rem;
+  }
+}
